@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Smart Dhobi",
+    "screenshot": "screenshot.png",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "5.8.4",
+    "uniqCompNum": 0,
+    "imageResize": true
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
